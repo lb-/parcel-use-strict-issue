@@ -1,1 +1,1 @@
-!function(){"use strict";foo2="bar2",console.info("use strict?")}();
+foo2="bar2",console.info("use strict?");
