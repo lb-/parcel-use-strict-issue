@@ -8,6 +8,8 @@
     "build": "node build.js"
   },
   "devDependencies": {
+    "@babel/core": "7.23.0",
+    "@babel/preset-env": "7.22.20",
     "@parcel/config-default": "2.9.3",
     "@parcel/core": "2.9.3",
     "@parcel/optimizer-terser": "2.9.3",
